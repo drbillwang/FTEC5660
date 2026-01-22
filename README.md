@@ -9,7 +9,6 @@ All my code will be shared here.
 ```
 FTEC5660/
 └── homeworks/
-    └── hw1/
+    ├── hw1/
+    └── ...
 ```
-
-Currently, only **HW1** is available. More homework assignments will be added in the future.
